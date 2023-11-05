@@ -1,4 +1,9 @@
 # TE1_DAA
+Nama: Steven Yosua Saputra
+NPM: 2106750780
+Kelas: DAA A
+Kode Asdos = 3
+
 ## Files: <br>
 generate_numbers.py = file python untuk men-generate dataset<br>
 memory_usage.py = file python untuk menghitung penggunaan memori<br>
