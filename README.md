@@ -1,8 +1,8 @@
 # TE1_DAA
-Nama: Steven Yosua Saputra
-NPM: 2106750780
-Kelas: DAA A
-Kode Asdos = 3
+Nama: Steven Yosua Saputra<br>
+NPM: 2106750780<br>
+Kelas: DAA A<br>
+Kode Asdos = 3<br>
 
 ## Files: <br>
 generate_numbers.py = file python untuk men-generate dataset<br>
