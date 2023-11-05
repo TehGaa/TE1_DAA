@@ -1,7 +1,7 @@
 # TE1_DAA
-Nama: Steven Yosua Saputra<br>
-NPM: 2106750780<br>
-Kelas: DAA A<br>
+Nama = Steven Yosua Saputra<br>
+NPM = 2106750780<br>
+Kelas =  DAA A<br>
 Kode Asdos = 3<br>
 
 ## Files: <br>
