@@ -12,7 +12,7 @@ merge_sort.py = file python untuk algoritma merge sort<br>
 two_pivot_block_quicksort.py = file python untuk algoritma two-pivot-block-quicksort<br>
 
 ## Folders: <br>
-dataset_kecil = seluruh dataset untuk input status dataset kecil
-dataset_sedang = seluruh dataset untuk input status dataset sedang
-dataset_besar = seluruh dataset untuk input status dataset besar
+dataset_kecil = seluruh dataset untuk input status dataset kecil<br>
+dataset_sedang = seluruh dataset untuk input status dataset sedang<br>
+dataset_besar = seluruh dataset untuk input status dataset besar<br>
 
